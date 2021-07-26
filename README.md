@@ -1,6 +1,6 @@
 ### Hi, I'm Irfan Marzuki  👋
 
-- 💖 I love Node.js and Typescript 
+- 💖 I working with Node.js and Typescript 
 - 🌱 I’m currently learning Golang and Rust
 - 📫 How to reach me: irfnmzk@gmail.com
 
