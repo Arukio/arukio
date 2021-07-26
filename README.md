@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Irfan Marzuki  👋
 
+- 💖 I love Node.js and Typescript 
+- 🌱 I’m currently learning Golang and Rust
+- 📫 How to reach me: irfnmzk@gmail.com
+
+#### You can contribute to my open source project here 👇
 <!--
 **Arukio/arukio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
