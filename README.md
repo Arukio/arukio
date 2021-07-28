@@ -1,7 +1,7 @@
 ### Hi, I'm Irfan Marzuki  👋
 
 - 💖 I working with Node.js and Typescript 
-- 🌱 I’m currently learning Golang and Rust
+- 🌱 I’m currently learning Rust 🦀
 - 📫 How to reach me: irfnmzk@gmail.com
 
 #### You can contribute to my open source project here 👇
